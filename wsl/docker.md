@@ -1,4 +1,5 @@
 # Install and run docker on WSL ubuntu
+How to install docker on WSL ubuntu distro?
 1. wsl --update
 2. wsl --list --online
 3. wsl --install Ubuntu-22.04
